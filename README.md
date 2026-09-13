@@ -692,7 +692,6 @@ By building the environment from the application layer through the WAF and proxy
 
 ## Project Screenshots
 
-> Add screenshots of the actual lab environment here.
 
 Recommended screenshots:
 
@@ -711,36 +710,6 @@ Example:
 
 ```markdown
 ## Screenshots Uploaded
-
-
-## Repository Structure
-
-```
-bunkerweb-waf-lab/
-│
-├── README.md
-│
-├── flask-app/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── templates/
-│
-├── bunkerweb/
-│   ├── configuration/
-│   └── policies/
-│
-├── nginx/
-│   └── configuration/
-│
-├── screenshots/
-│   ├── bunkerweb-dashboard.png
-│   ├── flask-application.png
-│   ├── https-configuration.png
-│   └── service-status.png
-│
-└── docs/
-    └── architecture.md
-```
 
 ---
 
