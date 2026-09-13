@@ -693,8 +693,6 @@ By building the environment from the application layer through the WAF and proxy
 ## Project Screenshots
 
 
-Recommended screenshots:
-
 - BunkerWeb dashboard
 - Protected service configuration
 - Flask application running
