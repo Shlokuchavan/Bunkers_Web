@@ -710,19 +710,8 @@ Recommended screenshots:
 Example:
 
 ```markdown
-## Screenshots
+## Screenshots Uploaded
 
-### BunkerWeb Dashboard
-![BunkerWeb Dashboard](screenshots/bunkerweb-dashboard.png)
-
-### Protected Flask Application
-![Flask Application](screenshots/flask-application.png)
-
-### HTTPS / SSL Configuration
-![HTTPS Configuration](screenshots/https-configuration.png)
-```
-
----
 
 ## Repository Structure
 
@@ -885,7 +874,6 @@ Interested in:
 
 ### Connect
 
--
 - **LinkedIn:** linkedin.com/in/shlok-chavan-17926a356
 - **Portfolio:** https://shlok-chavan.vercel.app
 
